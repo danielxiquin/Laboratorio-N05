@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DANIEL\source\repos\lab5OscarXiquin1118423\lab5OscarXiquin1118423\Source.cpp(23,27): warning C4311: '<function-style-cast>': truncamiento de puntero de 'int *' a 'int'
+C:\Users\DANIEL\source\repos\lab5OscarXiquin1118423\lab5OscarXiquin1118423\Source.cpp(23,27): warning C4302: '<function-style-cast>': truncamiento de 'int *' a 'int'
+  lab5OscarXiquin1118423.vcxproj -> C:\Users\DANIEL\source\repos\lab5OscarXiquin1118423\x64\Debug\lab5OscarXiquin1118423.exe
